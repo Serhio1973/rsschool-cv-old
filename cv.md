@@ -5,9 +5,12 @@ My name is Siarhei Aniskevich. I was born in Borisov on November 12, 1973. I wan
 I am currently working PrePress in a Print Shop and studying in RS School. I like to study here.
 
 ## My Contacts:
-* e-mail - anisanis336@gmail.com
-* telegram - @serg_anis
-* phone - +375 29 501-08-54
+* **e-mail** - anisanis336@gmail.com
+* **telegram** - @serg_anis
+* **phone** - +375 29 501-08-54
+
+## Education
+Higher (BSPU named after Maxim Tank) - 1995
 
 ## My Skills:
 + HTML&CSS;
