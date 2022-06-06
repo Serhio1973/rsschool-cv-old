@@ -24,3 +24,6 @@ function sayHi() {
 
 setTimeout(sayHi, 1000);
 ```
+## Languages:
+- Russian and Belarusian in perfection;
+- English between A1 and A2, but I am constantly improving in it.
