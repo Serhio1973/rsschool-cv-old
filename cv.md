@@ -1,6 +1,6 @@
 # Siarhei Aniskevich
 
-My name is Siarhei Aniskevich. I was born in Borisov on November 12, 1973. I want to became a Front-End Developer.
+My name is Siarhei Aniskevich. I was born in Borisov on November 12, 1973. I want to become a Front-End Developer.
 
 I am currently working PrePress in a Print Shop and studying in RS School. I like to study here.
 
